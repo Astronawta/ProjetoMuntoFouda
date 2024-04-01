@@ -1,0 +1,17 @@
+.Square {
+    background-color: red;
+    width: 250px;
+    height: 250px;
+    font-size: 40px;
+    font-style: bold;
+    text-align: center;
+}
+
+.Square2 {
+    background-color: black;
+    width: 250px;
+    height: 250px;
+    font-size: 40px;
+    font-style: bold;
+    text-align: center;
+}
